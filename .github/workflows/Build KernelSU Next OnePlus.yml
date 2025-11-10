@@ -42,6 +42,7 @@ on:
           - oneplus_pad_3
           - oneplus_ace5_ultra
           - oneplus_ace_6
+          - oneplus_15
       SUSFS_CI:
         type: choice
         description: "下载SUSFS模块调用方式"
